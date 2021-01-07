@@ -252,6 +252,20 @@ files:
     if __name__ == '__main__':
         CoffeeMachineTest('machine.coffee_machine').run_tests()
   learner_created: false
+- name: machine/machine_check.py
+  visible: true
+  text: |
+    def run(water: int, milk: int, beans: int, cups: int, money: int) -> None:
+        print('The coffee machine has:')
+        print(f'{water} of water')
+        print(f'{milk} of milk')
+        print(f'{beans} of coffee beans')
+        print(f'{cups} of disposable cups')
+        print(f'{money} of money')
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/370/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 07 Jan 2021 10:42:57 UTC
+record: 5

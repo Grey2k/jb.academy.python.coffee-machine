@@ -1,0 +1,13 @@
+type: code
+custom_name: Let's rock
+files:
+- name: main.py
+  visible: true
+  text: '# start a RockBand here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6667#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 07 Jan 2021 11:36:31 UTC
+record: -1

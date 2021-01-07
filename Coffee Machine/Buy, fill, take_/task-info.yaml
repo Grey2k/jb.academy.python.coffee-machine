@@ -285,6 +285,12 @@ files:
     if __name__ == '__main__':
         CoffeeMachineTest('machine.coffee_machine').run_tests()
   learner_created: false
+- name: machine/machine_check.py
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/369/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 07 Jan 2021 10:29:25 UTC
+record: 4
